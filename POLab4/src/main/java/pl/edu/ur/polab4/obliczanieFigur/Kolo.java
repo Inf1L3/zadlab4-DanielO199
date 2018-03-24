@@ -24,7 +24,7 @@ public class Kolo {
     public double pole(double promien){
     
    return pole=promien*promien*Math.PI;
-    
+     
     }
     
     public void Pokadane(){

@@ -16,7 +16,7 @@ public class Kwadrat {
     return pole= bok*bok;
    
     }
-    
+     
     public int obwod(int bok){
     
     obwod=bok+bok+bok+bok;

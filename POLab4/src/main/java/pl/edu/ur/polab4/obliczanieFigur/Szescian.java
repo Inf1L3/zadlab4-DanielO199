@@ -8,7 +8,7 @@ public class Szescian {
 
     public Szescian(int a) {
 
-        this.a = a;
+        this.a = a; 
 
     }
 

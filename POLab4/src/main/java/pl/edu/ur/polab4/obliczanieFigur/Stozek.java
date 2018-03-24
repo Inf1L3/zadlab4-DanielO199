@@ -13,7 +13,7 @@ public class Stozek {
         public Stozek(int tworzaca,int promien, int wysokosc){
         this.tworzaca=tworzaca;
         this.promien=promien;
-        this.wysokosc=wysokosc;
+        this.wysokosc=wysokosc; 
         
         }
         

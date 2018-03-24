@@ -32,7 +32,7 @@ public class Prostokat {
      System.out.println("Drugi bok prostoakta to: "+this.bok2);
         System.out.println("Obwod prostokata= "+obwod(bok1,bok2));
         System.out.println("Pole prostokata= "+pole(bok1,bok2));
-    }
+    } 
     
     
 }

@@ -11,7 +11,7 @@ public class Kula {
     public Kula(int r) {
 
         this.r = r;
-    }
+    } 
 
     public double pole(int r) {
 

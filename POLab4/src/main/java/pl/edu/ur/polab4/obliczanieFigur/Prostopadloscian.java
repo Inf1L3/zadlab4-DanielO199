@@ -4,7 +4,7 @@ public class Prostopadloscian {
 
     public int a;
     public int b;
-    public int h;
+    public int h; 
     public int pole;
     public int objetosc;
 
